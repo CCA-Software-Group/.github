@@ -9,14 +9,14 @@ General purpose / pedagogical repos:
 
 - [short_tutorials](https://github.com/CCA-Software-Group/short_tutorials) is a collection of small tutorials on various software development topics.
 
-## Relevant conferences / workshops / hack weeks:
-### General software development and computing:
+## Relevant conferences / workshops / hack weeks
+### General software development and computing
 - [Pycon](https://pycon.org/) - U.S. yearly in May, analog in many other countries throughout year
 - [SciPy](https://conference.scipy.org/) - U.S. yearly in July, Europe some years in August
 - [JuliaCon](https://juliacon.org/) - U.S. or Europe yearly in July
 - [SuperComputing](https://supercomputing.org/) - U.S. yearly in November
 
-### Astronomy-specific:
+### Astronomy-specific
 - [Astronomical Data Analysis Software & Systems (ADASS)](https://www.adass.org/) - Varying country yearly in November 
 - [.astronomy](https://www.dotastronomy.com/) - U.S. or Europe yearly in the fall
 - [Astro Hack Week](http://astrohackweek.org/) - sporadic (2024 cancelled), future unclear
