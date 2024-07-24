@@ -23,3 +23,5 @@ General purpose / pedagogical repos:
 - [Python in Astronomy](https://openastronomy.org/pyastro/) - yearly but last held in 2020, future unclear
 - [ASTRONUM](https://irfu.cea.fr/ASTRONUM2024/) - France ~yearly in the summer
 
+## Relevant seminar / talk series
+- [Virtual Astronomy Software Talks (VAST)](https://vast-seminars.github.io/) - Monthly by Zoom
