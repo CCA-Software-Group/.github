@@ -21,4 +21,5 @@ General purpose / pedagogical repos:
 - [.astronomy](https://www.dotastronomy.com/) - U.S. or Europe yearly in the fall
 - [Astro Hack Week](http://astrohackweek.org/) - sporadic (2024 cancelled), future unclear
 - [Python in Astronomy](https://openastronomy.org/pyastro/) - yearly but last held in 2020, future unclear
+- [ASTRONUM](https://irfu.cea.fr/ASTRONUM2024/) - France ~yearly in the summer
 
