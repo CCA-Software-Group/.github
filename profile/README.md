@@ -15,6 +15,7 @@ General purpose / pedagogical repos:
 - [SciPy](https://conference.scipy.org/) - U.S. yearly in July, Europe some years in August
 - [JuliaCon](https://juliacon.org/) - U.S. or Europe yearly in July
 - [SuperComputing](https://supercomputing.org/) - U.S. yearly in November
+- [Scientific Python](https://scientific-python.org/) - Seattle yearly in June
 
 ### Astronomy-specific
 - [Astronomical Data Analysis Software & Systems (ADASS)](https://www.adass.org/) - Varying country yearly in November 
