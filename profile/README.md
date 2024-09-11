@@ -9,6 +9,9 @@ General purpose / pedagogical repos:
 
 - [short_tutorials](https://github.com/CCA-Software-Group/short_tutorials) is a collection of small tutorials on various software development topics.
 
+General purpose / pedagogical presentations:
+- [Brief introduction to continuous integration](https://docs.google.com/presentation/d/10fWEnI4jolF1g0B4cxD1U4mgWUaIA_UYa5DmaAH30ms/edit?usp=sharing)
+
 ## Relevant conferences / workshops / hack weeks
 ### General software development and computing
 - [Pycon](https://pycon.org/) - U.S. yearly in May, analog in many other countries throughout year
