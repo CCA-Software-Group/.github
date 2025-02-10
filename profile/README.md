@@ -11,6 +11,7 @@ General purpose / pedagogical repos:
 
 General purpose / pedagogical presentations:
 - [Brief introduction to continuous integration](https://docs.google.com/presentation/d/10fWEnI4jolF1g0B4cxD1U4mgWUaIA_UYa5DmaAH30ms/edit?usp=sharing)
+- [A few practical programming tips](https://docs.google.com/presentation/d/125hBNecQ_LTRCfCZwaCG6rj8p6KJvCgkKXFYLVAlD5o/edit?usp=sharing)
 
 ## Relevant conferences / workshops / hack weeks
 ### General software development and computing
