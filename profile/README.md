@@ -7,7 +7,7 @@ General purpose / pedagogical repos:
 
 - [from-python-script-to-package](https://github.com/CCA-Software-Group/from-python-script-to-package) is a guide to packaging your Python code for a range of goals and to incremental levels of complexity.
 
-- [short_tutorials](https://github.com/CCA-Software-Group/short_tutorials) is a collection of small tutorials on various software development topics.
+- [short_tutorials](https://github.com/CCA-Software-Group/short_tutorials) is a collection of small tutorials on various software development topics in multiple programming languages.
 
 General purpose / pedagogical presentations:
 - [Brief introduction to continuous integration](https://docs.google.com/presentation/d/10fWEnI4jolF1g0B4cxD1U4mgWUaIA_UYa5DmaAH30ms/edit?usp=sharing)
